@@ -1,4 +1,4 @@
-<h1 align="center">🚀 SoftSinc</h1>
+<h1 align="center">🚀 SoftSincs</h1>
 
 <p align="center">
 Technology Partner for Startups & Enterprises
